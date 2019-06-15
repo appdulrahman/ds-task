@@ -44,3 +44,5 @@ There are 3 steps:
 5. If you have any questions, please raise an issue on this repo.
 
 ### Past projects
+https://github.com/appdulrahman/work  
+https://github.com/appdulrahman/DSND 
